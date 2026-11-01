@@ -1,4 +1,4 @@
-# Installing PostgreSQL and pgAdmin on macOS
+# LAB 2: Installing PostgreSQL and pgAdmin on macOS
 
 ## PostgreSQL server
 
