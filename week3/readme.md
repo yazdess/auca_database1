@@ -1,4 +1,4 @@
-# Basic psql Commands
+# LAB 3: Basic psql Commands
 
 I opened the Terminal and connected to PostgreSQL with `psql -U postgres -d mydb -h localhost -p 5432`
 
